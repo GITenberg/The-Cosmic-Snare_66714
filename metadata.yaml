@@ -1,0 +1,35 @@
+_repo: The-Cosmic-Snare_66714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Granger, Darius John
+    - Wilder, Stephen
+    - Thames, C. H.
+    - Lesser, Milton
+    - Ridgway, Jason
+    - Chase, Adam
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-11-12'
+identifiers:
+  gutenberg: '66714'
+language: en
+pgterms:marc905: 20210313101619lesser
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cosmic Snare
+url: http://www.gutenberg.org/ebooks/66714
